@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+eJ4LvrCZt4+BwV3SQ9ahDS2akc7Wj+yugFSU9mFEyZv9iFe6pxb9uB8oszKrR+K34OCJ50kCp9k/dtUUC6DEA==",
+  "success": true,
+  "projectFilePath": "C:\\_Dev\\Playground\\Poc.Kafka\\Kafka.Producer\\Kafka.Producer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\foie\\.nuget\\packages\\confluent.kafka\\1.8.2\\confluent.kafka.1.8.2.nupkg.sha512",
+    "C:\\Users\\foie\\.nuget\\packages\\librdkafka.redist\\1.8.2\\librdkafka.redist.1.8.2.nupkg.sha512",
+    "C:\\Users\\foie\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
